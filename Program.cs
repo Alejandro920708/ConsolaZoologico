@@ -8,6 +8,10 @@ namespace ConsolaZoologico
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Rey");
+            Console.WriteLine("Desarrolaldor!");
+            Console.WriteLine("Cambio 2  de Desarrolaldor!");
+            Console.WriteLine("Desarrolaldor2");
+
         }
     }
 }

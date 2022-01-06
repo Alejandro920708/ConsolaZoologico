@@ -1,0 +1,16 @@
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\bin\Debug\net5.0\ConsolaZoologico.exe
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\bin\Debug\net5.0\ConsolaZoologico.deps.json
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\bin\Debug\net5.0\ConsolaZoologico.runtimeconfig.json
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\bin\Debug\net5.0\ConsolaZoologico.runtimeconfig.dev.json
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\bin\Debug\net5.0\ConsolaZoologico.dll
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\bin\Debug\net5.0\ref\ConsolaZoologico.dll
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\bin\Debug\net5.0\ConsolaZoologico.pdb
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\obj\Debug\net5.0\ConsolaZoologico.csproj.AssemblyReference.cache
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\obj\Debug\net5.0\ConsolaZoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\obj\Debug\net5.0\ConsolaZoologico.AssemblyInfoInputs.cache
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\obj\Debug\net5.0\ConsolaZoologico.AssemblyInfo.cs
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\obj\Debug\net5.0\ConsolaZoologico.csproj.CoreCompileInputs.cache
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\obj\Debug\net5.0\ConsolaZoologico.dll
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\obj\Debug\net5.0\ref\ConsolaZoologico.dll
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\obj\Debug\net5.0\ConsolaZoologico.pdb
+C:\Users\Cobe 1\Documents\Bitbucket\ConsolaZoologico\obj\Debug\net5.0\ConsolaZoologico.genruntimeconfig.cache

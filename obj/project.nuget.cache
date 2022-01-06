@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UiFyWH+2bRJpDxgFGgtL/y/hX/vC2qsbpexzcpqvPRJsb5cQ7wRkKctBGa3yHgdhpWMNzFba7bP3j9RTZ3Ysw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cobe 1\\Documents\\Bitbucket\\ConsolaZoologico\\ConsolaZoologico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cobe 1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
